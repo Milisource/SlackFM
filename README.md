@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+ <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -58,9 +58,9 @@ SlackFM is a simple python script I wrote for the sake of Last.FM integration. I
 6. Enjoy your updating status!
 
 ## To-Do
-[] - CLI setup
-[] - Customizability
-[] - Docker Container (much later)
+- [ ] CLI setup
+- [ ] Customizability
+- [ ] Docker Container (much later)
 And more, hopefully!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
