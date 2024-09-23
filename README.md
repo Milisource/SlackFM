@@ -44,7 +44,7 @@ SlackFM is a simple python script I wrote for the sake of Last.FM integration. I
 
 ## Prerequisites
 - Python 3.12 or later
-- A Slack [application](https://api.slack.com/apps)
+- A Slack [application](https://api.slack.com/apps) with the ``users.profile:write`` user token scope
 - A Last.FM [API account](https://www.last.fm/api/account/create)
 - The basic, fundamental human ability to **read**
 
