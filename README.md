@@ -57,6 +57,12 @@ SlackFM is a simple python script I wrote for the sake of Last.FM integration. I
 5. Start ``start.bat``
 6. Enjoy your updating status!
 
+## To-Do
+[] - CLI setup
+[] - Customizability
+[] - Docker Container (much later)
+And more, hopefully!
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
