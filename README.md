@@ -26,8 +26,7 @@
 
 
 <div align="center">
-<h3 align="center">Slack.FM</h3>
-<h2>(Logo Pending)</h2>
+<h2>SlackFM</h2>
 
   <p align="center">
     <a href="https://github.com/Milisource/SlackFM/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
